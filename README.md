@@ -6,3 +6,5 @@
 Запуск тестов с помощью команды maven - mvn clean test
 ### Генерация allure отчета
 maven - mvn allure:serve
+### Тестовое задание Мир квестов
+src/test/java/me/umar/TaskTest.java - сам тест с тестовым заданием
